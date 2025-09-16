@@ -1,2 +1,2 @@
-# practica-github-lvaro-Rodr-guez
+# practica-github-Alvaro-Rodriguez
 Primer trabajo realizado con github
