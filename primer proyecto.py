@@ -23,6 +23,7 @@ nombre_completo= nombre + " " + apellido1 + " " + apellido2
 #finalmente utilizamos la funcion print para visualizar por pantalla el contenido en este caso
 #la variable nombre_completo
 print(nombre completo)
+#este es un ejemplo de como debo realizar uuna suma, resta, multiplicación, divisióno potencia
 suma=var2+var3
 print(f"La suma de (var2) + (var3) es igual a ", suma)
 resta=var2-var3
@@ -34,3 +35,4 @@ print(f"El resto de la division de (var2) / (var3) es igual a ", modulo_division
 potencia=var2**var3
 print(f"La potencia de (var2) ^ (var3) es igual a ", potencia)
       
+
